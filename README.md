@@ -7,7 +7,7 @@ This dictionary app is a web based dictionary made by using HTML,CSS and JS.It u
 No Package required
 ```bash
 
-
+##Preview:https://himaldahal.github.io/dictionary-app/
 ## Contributing
 Pull requests are welcome.
 
